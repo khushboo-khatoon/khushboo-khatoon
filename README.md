@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushboo%20Khatoon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20in%20Progress%20🚀&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushboo%20Khatoon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20in%20Progress%20&descAlignY=62&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khushboo+👋;Java+Full+Stack+Developer+in+Progress;DSA+Enthusiast+%7C+Open+Source+Contributor;CSE+Student+2024–2028+🎓;Learn+•+Build+•+Contribute+•+Repeat+🔁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khushboo+👋;Java+Full+Stack+Developer+in+Progress;DSA+Enthusiast+%7C+Open+Source+Contributor;CSE+Student+2024–2028+🎓;Learn+•+Build+•+Contribute+•+Repeat)](https://git.io/typing-svg)
 
 </div>
 
----
 
-## 🙋‍♀️ About Me
+
+##  About Me
 
 ```java
 public class Khushboo {
@@ -23,9 +23,8 @@ public class Khushboo {
 }
 ```
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -39,22 +38,18 @@ public class Khushboo {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushboo-khatoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-khatoon&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=khushboo-khatoon&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=khushboo-khatoon&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushboo-khatoon&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <div align="center">
 
