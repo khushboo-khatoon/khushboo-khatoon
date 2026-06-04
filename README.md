@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9CAAC&height=180&section=header&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=20&desc=Java%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&descColor=000000" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=B7B89F&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Modern+%26+Interactive+UI;DSA+%7C+Problem+Solving+%7C+Logic;Learn+•+Build+•+Contribute+•+Repeat)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9CAAC&height=180&section=header&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=20&desc=Java%20Full%20Stack%20Developer&descAlignY=45&descAlign=50&descColor=000000" width="100%"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=B7B89F&center=true&vCenter=true&width=500&lines=Building+scalable+backend+systems;Modern+%26+Interactive+UI;DSA+%7C+Problem+Solving+%7C+Logic;Learn+%E2%80%A2+Build+%E2%80%A2+Contribute+%E2%80%A2+Repeat)](https://git.io/typing-svg)
 
 </div>
 
