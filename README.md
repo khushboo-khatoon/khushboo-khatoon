@@ -2,26 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushboo%20Khatoon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20in%20Progress%20&descAlignY=62&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khushboo+👋;Java+Full+Stack+Developer+in+Progress;DSA+Enthusiast+%7C+Open+Source+Contributor;CSE+Student+2024–2028+🎓;Learn+•+Build+•+Contribute+•+Repeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khushboo;Java+Full+Stack+Developer+in+Progress;DSA+Enthusiast+%7C+Open+Source+Contributor;CSE+Student+2024–2028+🎓;Learn+•+Build+•+Contribute+•+Repeat)](https://git.io/typing-svg)
 
 </div>
-
-
-
-##  About Me
-
-```java
-public class Khushboo {
-    String name     = "Khushboo Khatoon";
-    String role     = "Java Full Stack Developer in Progress";
-    String college  = "CSE Student (2024 – 2028)";
-    String location = "Meerut, UP, India 🇮🇳";
-
-    String[] learning  = {"Java", "DSA", "Spring Boot", "React"};
-    String[] goals     = {"Full Stack Developer", "Open Source Contributor"};
-    String   motto     = "Learn • Build • Contribute • Repeat";
-}
-```
 
 
 ## Tech Stack
@@ -60,19 +43,8 @@ public class Khushboo {
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=khushboo-khatoon&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
