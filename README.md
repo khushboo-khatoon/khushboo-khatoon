@@ -43,6 +43,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=B7B89F)](https://twitter.com/KhushbooKh69219)
 [![Gmail](https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=B7B89F)](mailto:khushboo071006@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=khushboo-khatoon&color=B7B89F&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 </div>
