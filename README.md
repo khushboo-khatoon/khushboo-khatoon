@@ -1,28 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushboo%20Khatoon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20in%20Progress%20&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d,111111&height=180&section=header&text=Khushboo%20Khatoon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Java%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&descColor=888888" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khushboo;Java+Full+Stack+Developer+in+Progress;DSA+Enthusiast+%7C+Open+Source+Contributor;CSE+Student+2024–2028+🎓;Learn+•+Build+•+Contribute+•+Repeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=B7B89F&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Modern+%26+Interactive+UI;DSA+%7C+Problem+Solving+%7C+Logic;Learn+•+Build+•+Contribute+•+Repeat)](https://git.io/typing-svg)
 
 </div>
 
 
-## Tech Stack
+### Tech Stacks
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=B7B89F)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a1a?style=for-the-badge&logo=spring-boot&logoColor=B7B89F)
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=B7B89F)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=B7B89F)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=B7B89F)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=B7B89F)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=B7B89F)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=B7B89F)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=B7B89F)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visual%20studio%20code&logoColor=B7B89F)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-1a1a1a?style=for-the-badge&logo=intellij-idea&logoColor=B7B89F)
 
 
-## GitHub Stats
+
+### GitHub Stats
 
 <div align="center">
 
