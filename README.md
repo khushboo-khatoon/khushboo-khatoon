@@ -19,7 +19,7 @@
 
 <div align="center">
 
-
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=khushboo-khatoon&cc=0d0d0d&tc=ffffff&ic=B7B89F&bc=B7B89F)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushboo-khatoon&bg_color=0d0d0d&color=ffffff&line=ffffff&point=39d353&hide_border=true)](https://github.com/khushboo-khatoon)
 </div>
 
